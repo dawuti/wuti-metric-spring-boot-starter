@@ -5,3 +5,6 @@
 undertow需要新版本的xnio
 
 HystrixMetricsPublisher参照 https://github.com/Netflix/Hystrix/wiki/Metrics-and-Monitoring
+
+
+可打成spring-boot-starter使用
